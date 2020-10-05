@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727979455968",
+    "firebase_url": "https://socialcoupons-69153.firebaseio.com",
+    "project_id": "socialcoupons-69153",
+    "storage_bucket": "socialcoupons-69153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727979455968:android:2339c83038196da3de6785",
+        "android_client_info": {
+          "package_name": "com.example.socialcoupons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727979455968-hiuag2r7ta1jqejk8qh7a9ubk58caqh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialcoupons",
+            "certificate_hash": "e7749b7b7098b4423044a3eb9d39584da28cb9e3"
+          }
+        },
+        {
+          "client_id": "727979455968-i6q0938mfn0estk9vp088gn6kj4512k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2I-BEA5Tx35Yp-DrWDcdbaG_e5B_bmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727979455968-i6q0938mfn0estk9vp088gn6kj4512k9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727979455968-dh0bgn7orpaoitb112q6t276j0etfp1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialcoupons"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
